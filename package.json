@@ -1,0 +1,21 @@
+{
+  "name": "ramdom-consol-msg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarwinDev06/ramdom-consol-msg.git"
+  },
+  "keywords": [],
+  "author": "Darwin Gonzalez <darwinnoel15@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/DarwinDev06/ramdom-consol-msg/blob/main/README.md",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
